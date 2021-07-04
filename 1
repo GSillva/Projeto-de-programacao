@@ -1,0 +1,17 @@
+numero=[]
+total=0
+
+for i in range(10):
+        numero.append(int(input('Me dê um número, por favor:\t')))
+
+ultimo=numero[9]
+
+for i in range(10):
+       if ultimo==numero[i]:
+               total+=1
+
+if total!=1:
+        print('\n'f'O último número da lista foi repetido {total} vezes, sendo o último número também incluido na contagem')
+else:
+        print('\n'f'O último número da lista foi repetido {total} vez, sendo o último número também incluido na contagem')
+           
