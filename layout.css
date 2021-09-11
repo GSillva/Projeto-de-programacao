@@ -1,224 +1,130 @@
-*{
-    margin: 0;
-    padding: 0;
-}
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="layout.css" media="screen">
+    <title>Histórias de terror brasileiras</title>
+</head>
 
-.titulo_index {
-    text-align: center;
-}
-
-.alinharimagens {
-    display: block;
-    margin-left: auto;
-    margin-right: auto
-}
-
-#index_style {
-    background-image: url(imagens/769389-portal-do-caos.jpg);
-    color: white;
-    margin-top: 15%;
-    text-align: justify;
-}
-
-.tabela_sobre{
-    margin-top: 10%;
-}
-
-#sobre_layout {
-    background-image: url("imagens/mariposa.jpg");
-    color: thistle;
-}
-
-#space{
-    text-align: center;
-    word-spacing: 200px;
-    background-color:rgb(255, 249, 249) ;
-    border-radius: 10px;
-
-}
-
-#titulo {
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    color: #090a0a;
-    margin-left: 0%;
-}
-
-#planoterror {
-    background-image: url("imagens/halloween_web_size_-1.jpg") ;
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    color: #d32828;
-}
-
-.retornodoterror {
-    color: white;
-    margin-left:-40%;
-    margin-bottom: 5%;
-    margin-top: 10%
-}
-
-.linkscolor {
-    color: #f3e6e6;
+<body id="planoterror">
     
-}
+    <section class="artigos1">
+        
+        <h1>A Emparedada da Rua Nova</h1><br>
 
-.linkscolor_index {
-    color: black;
-}
+            <img class="alinharimagens" src="imagens/emparedadadaruanova.jpeg" alt="Cadáver feminino descoberto atráw de parede"><br>
 
-.linkscolor_contatos {
-    color: #222325;
+            <p>
+                Em meados do século XIX um homem chamado Jaime Favais possuía uma loja no térreo de um pequeno sobrado localizado na rua nova no Recife, Jaime era conhecido por ser um homem bem  rude, ignorante e até vingativo; ele tinha uma filha que se chamava Clotilde, em um dia ele descobriu que sua única filha estava grávida de um homem que tinha a fama de sedutor seu nome era Leandro, ao descobrir isso ficou com muita raiva, mais isso era só a cereja do bolo, depois de algum tempo descobriu que o mesmo homem que havia engravidado sua filha também era amante da sua esposa, quando ficou sabendo desse fato ele ficou furioso. Para tentar manter o respeito da sua família ele tentou logo casar sua filha com uns dos seus primos, que ao ficar sabendo da notícia o mesmo rejeitou o casamento .
+            </p>
+
+            <p>
+                Após a rejeição do casamento Jaime resolve dar uma pesada punição à sua filha , decidiu colocar a filha em um dos banheiros da sua casa e tampar a entrada para que ela nunca mais saísse de lá, com a ajuda de um pedreiro eles fecharam a entrada do aposento com tijolos. Depois de realizar isso o pedreiro com peso na consciência vai até um posto policial para depor sobre o fato mas infelizmente o policial  não acredita na história que ele contou; enquanto isso Jaime depois de cometer esse crime foge para Portugal e passa três anos no país, logo em seguida volta para recife para morar no andar acima da sua antiga loja.
+            </p>    
+            
+            <p>
+                Depois de tal acontecimento moradores da região alegam escutar à noite gritos, gemidos,e até mesmo alguns relatam ver figuras brancas medonhas de uma mulher bem jovem aparecer e desaparecer de repente , todos ocorridos perto do antigo casarão onde Clotilde foi morta.
+                
+            </p><br>
+        
+            <p>
+                Tal história virou um livro escrita por Joaquim Maria Carneiro Vilela (1846-1913).
+            </p>
+        
+        <h2>Se você sentiu mais interesse, acesse:</h2>
+
+        <iframe width="500" height="315" src="https://www.youtube.com/embed/4zMBlcQxE-o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
     
-}
-
-p {
-    text-indent: 1cm;
-}
-
-.artigos1 {
-    background-image: url("imagens/halloween_web_size_-2.jpg") ;
-    color: rgb(209, 26, 26);
-    width: 500px;
-    text-align: justify;
-    margin-left: -50%;
+        <h2> Fontes </h2>
+        <p>
+            <a class="linkscolor" href="http://www.orecifeassombrado.com/assombracoes/a-emparedada-da-rua-nova/"> http://www.orecifeassombrado.com/assombracoes/a-emparedada-da-rua-nova/</a><br>
+            <a class="linkscolor" href="http://editora.cepe.com.br/livro/a-emparedada-da-rua-nova"> http://editora.cepe.com.br/livro/a-emparedada-da-rua-nova</a> 
+        </p>
     
-}
-
-.artigos2 {
-    background-image: url("imagens/halloween_web_size_-2.jpg") ;
-    color: rgb(240, 237, 48);
-    width: 500px;
-    text-align: justify;
-    margin-left: 50%;
-    margin-top: -255%;
+    </section>   
     
-    
-}
+    <section class="artigos2">
 
-.artigos3 {
-    background-image: url("imagens/halloween_web_size_-2.jpg") ;
-    color: rgb(136, 73, 238);
-    width: 500px;
-    text-align: justify;
-    margin-top: -125%;
-    margin-left: -50%;
-}
+        <h1>Loira do Banheiro</h1><br>
 
+        <img class="alinharimagens" src="imagens/loiradobanheiro.jpeg" alt="Loira do Banheiro"><br>
 
-.lista_email {
-    margin-left: 18%;
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    color: #0a0b0c;
-}
+        <h2>Lenda</h2>
 
-#retorno_contatos {
-    margin-bottom: 0.5em;
-    margin-top: 0.2em;
-}
+        <p>
+            Lenda urbana brasileira comum ao imaginário juvenil, consistindo basicamente no evocação de uma mulher de cabelos amarelos e aparência pouco saudável, através do pronunciamento  do nome “Loira do  Banheiro”, apagar e acender as luzes, dar descarga e assobiar, todos estes realizados 3 vezes, havendo mudanças regionais.
+        </p><br>
 
-p.parágrafo_de_contato {
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    color: #0a0b0c;
-    margin-left: 0%;
-    text-align: justify;
-}
+        <h2>Origem da lenda</h2>
 
-body {
-    background-image: url("imagens/antigo.jpg") ;
-    background-color: #9d7a65;
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    font-size: 1em;
-    color: black;
-    margin-left: 30%;
-    margin-right: 30%;
-    margin-top: 2%;
-    justify-content: center;
-}
+            <p>
+                O que muitos não sabem é que essa criatura invocada seria uma mulher chamada Maria Augusta de Oliveira, filha de Visconde de Guaratinguetá, um riquíssimo produtor de café da região e também um severo pai, tendo arranjado o casamento de seus 14 filhos, não sendo diferente com a Maria Augusta. Que por acaso não era loira como dizia a lenda, mas ruiva, a confusão se deu pelo fato da tonalidade de cabelo ser tão rara que a população da cidade naquela época não sabia sequer o que era uma pessoa ruiva, acreditando que os cabelos da moça eram apenas  de um tom de loiro “queimado”.
+                Seu pai ordenara-lhe que se casasse aos 14 anos com o Conselheiro Dutra Rodrigues Alves, político paulista influente, cujo o qual também era 21 anos mais velho do que ela. Tal casamento fora infeliz desde sua concepção fazendo com que Maria vendesse todas as suas jóias e fugisse de casa assim que completara seus 18 anos - quando podia sair do país sem maiores impedimentos - em 1884. 
+                Ela se foi para Paris onde pouco se sabe sobre sua vida, apenas a sua presença em bailes da alta sociedade parisiense. Augusta ainda tentou contato com sua família posteriormente, mas eles se recusam a vê-la, apesar disto  há registros dela no Brasil em 1886, quando anulou seu casamento.
+            </p>
+            <p>
+                E em 1991, ela falece. Seu corpo foi saqueado durande o retorno para seu país, tendo as jóias e até o atestado de óbito levados, tal fato levou a um mistério acerca da causa de sua morte, mas a principal teoria é que ela foi vítima de hidrofobia devido às evidências de morte por desidratação e pelo fato dessa doença ter sido comum na Paris da época. Sua mãe fizera que sua casa fosse toda adornada de preto, desde velas, cortinas, com até janelas e quadros cobertos de preto, além de que foi posto em sua cabeça uma coroa com pedras preciosas, flores douradas e mechas de seu cabelo. O cadáver foi repousado em uma cripta de vidro na mansão que seu pai e mãe viviam e lá ela permaneceu por cerca de 8 meses, mesmo após o término da construção de seu mausoléu.
+                Em 1902, pelo fato da mansão ser considerada um monumento estadual, a residência é transformada em um colégio, Escola Estadual Conselheiro Rodrigues Alves. A mesma foi acometida por um incêndio em 1916, mas mantém-se em funcionamento até hoje. 
+            </p><br>
 
-input, select, textarea, button {
-    border-radius: 10px;
-}
+        <h2>Diz a lenda que...</h2>
 
-#formulario {
-    display: inline-block;
-    border: 10;
-    border-color: #090a0a;
-    background-color: whitesmoke;
-    margin-right: 2em;
-    margin-inline-start: 4em;
-}
+            <p>
+                Muito se diz sobre a lenda que já percorreu o Brasil inteiro, mas considero interessante algumas menções para finalizar a descrição do caso.
+            </p>
+               
+            <p>
+                Diz a lenda que no dia de sua morte um espelho quebrou-se, o que no evento foi atribuído há um erro da empregada. Também fala-se que o seu corpo foi sepultado apenas após a própria Maria Augusta tentar contatar sua mãe através do outro lado. 
+                Durante o incêndio da escola, relatos de pessoas que tentaram apagar os incêndios afirmam terem sentido um odor de perfume em meio a chamas, além de poderem ouvir o som do piano, instrumento que ela praticava.
+                Até hoje há relatos tanto de professores quanto alunos de ouvirem o piano tocar, mesmo sem ninguém a manuseá-lo, ou até mesmo de torneiras abrindo-se aparentemente sozinhas, sendo tal fato associado à uma sede do suposto espírito de Maria Augusta que morrera desidratada.
+                Será Maria Augusta de Oliveira um espírito preso à escola? Algum ser se transpassando por ela? Ou apenas uma lenda urbana? Enfim, essa é uma resposta que eu não tenho.
+            </p><br>
 
+        <h2>Se você sentiu mais interesse, acesse:</h2>
 
-.campo {
-    margin-bottom: 2em;
-    margin-left: 1em;
-    margin-right: 1em;
-}
+        <iframe width="500" height="315" src="https://www.youtube.com/embed/q_TAX8VUKO4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
 
-.campo label {
-    margin-bottom: 0.2em;
-    color: #000000;
-    display: block;
-}
+        <h2> Fontes </h2>
+            <ul><address>
+                <li><a class="linkscolor" href="https://www.youtube.com/watch?v=3cXBmVTObco"> https://www.youtube.com/watch?v=3cXBmVTObco</a></li>
+                <li><a class="linkscolor" href="https://www.youtube.com/watch?v=_qLHyY8q-1g"> https://www.youtube.com/watch?v=_qLHyY8q-1g</a></li>
+                <li><a class="linkscolor" href="https://www.uol.com.br/nossa/noticias/redacao/2020/07/04/mansao-no-interior-de-sao-paulo-e-a-casa-assombrada-da-loira-do-banheiro.htm"> https://www.uol.com.br/nossa/noticias/redacao/2020/07/04/mansao-no-interior-de-sao-paulo-e-a-casa-assombrada-da-loira-do-banheiro.htm</a></li>
+            </address></ul>
+    </section><br>
 
-.campo input[type="text"], .campo input[type="email"], .campo select, .campo textarea {
-    padding: 0.2em;
-    border: 1px solid #230d00;
-    box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.2);
-    display: block;
-}
+    <section class="artigos3">
 
-.campo select option {
-    padding-right: 1em;
-}
+        <h1>Filho mata pais e deixa cena do crime macabra antes de cometer suicídio</h1><br>
+            <img  class="alinharimagens" src="imagens/casodesucídio.jpeg" alt="Imagem com símbolos satanistas"><br>
 
-.campo input:focus, .campo select:focus, .campo textarea:focus {
-    background: #ffbcbc;
-}
+            <p>
+                Na madrugada de 4 de agosto de 2021, em Vila Velha (ES), no bairro Itapuã, um estudante de medicina de 22 anos é suspeito de assassinar seus pais antes de cometer suicídio. 
+                Guilherme Heringer Cesar consumou o crime num cenário que sugere ter se tratado de um ritual. As vítimas foram Paulo de Oliveira Cesar, 68, médico urologista e pastor, 
+                e Raquel Heringer Cesar, 61, formada em Educação Física. Foram assassinados com uma faca. O corpo do pai foi achado atrás da porta do banheiro, enquanto o da mãe estava
+                em cima da cama coberto por lençóis.
+            </p>
+            <p>Um familiar informou que, logo após matar os pais, o suspeito ligou para ele e confessou o ato e, antes de desligar, informou que tiraria a própria a vida 
+                – e assim o fez. Às 4h30, a polícia foi acionada para investigar a residência, onde encontrou os dois cadáveres.Os vizinhos interrogados disseram que eram uma família 
+                extraordinária, e descreveram Guilherme como um jovem comum; contudo, as evidências no apartamento indicam que ele teria praticado algum tipo de ritual para satisfazer 
+                uma entidade: “ele me obrigou”, escreveu numa bíblia.Além disso, cinzas foram espalhadas pelas páginas da bíblia. Na residência, também foram encontradas garrafas 
+                vazias de cerveja, vinho e embalagens de cigarro. A arma utilizada no crime foi apreendida e os corpos encaminhados ao Departamento Médico Legal. O corpo de 
+                Guilherme foi encontrado na Terceira Ponte, entre Vitória e Vila Velha.
+            </p><br>
 
-.botao {
-    font-size: 1.2em;
-    background: #230d00;
-    border: 0;
-    margin-bottom: 1em;
-    color: #ffffff;
-    padding: 0.2em 0.5em;
-    box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.2);
-    text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.5);
-    position: absolute;
-    left: 45%;
-    margin-right: -50%;
-    transform: translate(-100%, -50%);
-}
+        <h2>Se você sentiu mais interesse, acesse:</h2>
 
-.botao:hover {
-    background: #830d0d;
-    box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.2);
-    text-shadow: none;
-}
+        <iframe width="500" height="315" src="https://www.youtube.com/embed/lLtegB26MCc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
 
-.tabela_sobre {
-    margin-left: 13em;
-    border-color: #499be7;
-    border-spacing: 0;
-    border-width: 00.2em;
-}
-caption {
-    margin-bottom: 1em;
-}
+        <h2> Fontes </h2>
+            <ul><address>
+                <li><a class="linkscolor" href="https://noticias.uol.com.br/cotidiano/ultimas-noticias/2021/08/04/filho-suspeito-de-matar-pai-e-mae.htm"> https://noticias.uol.com.br/cotidiano/ultimas-noticias/2021/08/04/filho-suspeito-de-matar-pai-e-mae.htm</a></li>
+            </address></ul>
+    </section>
 
-#sobrecontos {
-    text-align: center;
-}
-.linkscolor_sobre {
-    color: rgb(189, 33, 33);
-}
-
-#clicaraki {
-    text-align: center;
-    margin-left: -90px;
-}
-
-#sobre_layout {
-    background-image: url("imagens/mariposa.jpg");
-    color: #f3e6e6;
-}
+    <nav>
+        <p class="retornodoterror">Volte para a primeira página apertando <a class="linkscolor" href="index.html"> aqui</a></p>
+    </nav>
+</body>
+</html>
