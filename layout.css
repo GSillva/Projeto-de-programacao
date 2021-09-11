@@ -58,6 +58,7 @@
 
 .linkscolor {
     color: #f3e6e6;
+    
 }
 
 .linkscolor_index {
@@ -193,4 +194,31 @@ input, select, textarea, button {
     background: #830d0d;
     box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.2);
     text-shadow: none;
+}
+
+.tabela_sobre {
+    margin-left: 13em;
+    border-color: #499be7;
+    border-spacing: 0;
+    border-width: 00.2em;
+}
+caption {
+    margin-bottom: 1em;
+}
+
+#sobrecontos {
+    text-align: center;
+}
+.linkscolor_sobre {
+    color: rgb(189, 33, 33);
+}
+
+#clicaraki {
+    text-align: center;
+    margin-left: -90px;
+}
+
+#sobre_layout {
+    background-image: url("imagens/mariposa.jpg");
+    color: #f3e6e6;
 }
