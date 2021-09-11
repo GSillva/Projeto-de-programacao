@@ -1,0 +1,196 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.titulo_index {
+    text-align: center;
+}
+
+.alinharimagens {
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+}
+
+#index_style {
+    background-image: url(imagens/769389-portal-do-caos.jpg);
+    color: white;
+    margin-top: 15%;
+    text-align: justify;
+}
+
+.tabela_sobre{
+    margin-top: 10%;
+}
+
+#sobre_layout {
+    background-image: url("imagens/mariposa.jpg");
+    color: thistle;
+}
+
+#space{
+    text-align: center;
+    word-spacing: 200px;
+    background-color:rgb(255, 249, 249) ;
+    border-radius: 10px;
+
+}
+
+#titulo {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #090a0a;
+    margin-left: 0%;
+}
+
+#planoterror {
+    background-image: url("imagens/halloween_web_size_-1.jpg") ;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #d32828;
+}
+
+.retornodoterror {
+    color: white;
+    margin-left:-40%;
+    margin-bottom: 5%;
+    margin-top: 10%
+}
+
+.linkscolor {
+    color: #f3e6e6;
+}
+
+.linkscolor_index {
+    color: black;
+}
+
+.linkscolor_contatos {
+    color: #222325;
+    
+}
+
+p {
+    text-indent: 1cm;
+}
+
+.artigos1 {
+    background-image: url("imagens/halloween_web_size_-2.jpg") ;
+    color: rgb(209, 26, 26);
+    width: 500px;
+    text-align: justify;
+    margin-left: -50%;
+    
+}
+
+.artigos2 {
+    background-image: url("imagens/halloween_web_size_-2.jpg") ;
+    color: rgb(240, 237, 48);
+    width: 500px;
+    text-align: justify;
+    margin-left: 50%;
+    margin-top: -124%;
+    
+    
+}
+
+.artigos3 {
+    background-image: url("imagens/halloween_web_size_-2.jpg") ;
+    color: rgb(136, 73, 238);
+    width: 500px;
+    text-align: justify;
+    margin-top: -185%;
+    margin-left: -50%;
+}
+
+
+.lista_email {
+    margin-left: 18%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #0a0b0c;
+}
+
+#retorno_contatos {
+    margin-bottom: 0.5em;
+    margin-top: 0.2em;
+}
+
+p.parágrafo_de_contato {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #0a0b0c;
+    margin-left: 0%;
+    text-align: justify;
+}
+
+body {
+    background-image: url("imagens/antigo.jpg") ;
+    background-color: #9d7a65;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 1em;
+    color: black;
+    margin-left: 30%;
+    margin-right: 30%;
+    margin-top: 2%;
+    justify-content: center;
+}
+
+input, select, textarea, button {
+    border-radius: 10px;
+}
+
+#formulario {
+    display: inline-block;
+    border: 10;
+    border-color: #090a0a;
+    background-color: whitesmoke;
+    margin-right: 2em;
+    margin-inline-start: 4em;
+}
+
+
+.campo {
+    margin-bottom: 2em;
+    margin-left: 1em;
+    margin-right: 1em;
+}
+
+.campo label {
+    margin-bottom: 0.2em;
+    color: #000000;
+    display: block;
+}
+
+.campo input[type="text"], .campo input[type="email"], .campo select, .campo textarea {
+    padding: 0.2em;
+    border: 1px solid #230d00;
+    box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.2);
+    display: block;
+}
+
+.campo select option {
+    padding-right: 1em;
+}
+
+.campo input:focus, .campo select:focus, .campo textarea:focus {
+    background: #ffbcbc;
+}
+
+.botao {
+    font-size: 1.2em;
+    background: #230d00;
+    border: 0;
+    margin-bottom: 1em;
+    color: #ffffff;
+    padding: 0.2em 0.5em;
+    box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.2);
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.5);
+    position: absolute;
+    left: 45%;
+    margin-right: -50%;
+    transform: translate(-100%, -50%);
+}
+
+.botao:hover {
+    background: #830d0d;
+    box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.2);
+    text-shadow: none;
+}
